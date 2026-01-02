@@ -14,5 +14,7 @@ Database: MySQL / MongoDB
 ✨ Key Features
 
 ✅ Interactive Resume & Portfolio Section
+
 ✅ Contact Form with Email Notifications
+
 ✅ SEO Optimization for Better Visibility
